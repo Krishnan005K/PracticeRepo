@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Buttons from './Buttons';
-import CurrencyConverter from './CurrencyConverter';
+import Buttons from './components/Buttons';
+import CurrencyConverter from './components/CurrencyConverter';
 
 function App() {
   return (
